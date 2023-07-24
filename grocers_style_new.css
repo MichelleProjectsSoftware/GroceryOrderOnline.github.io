@@ -1,0 +1,73 @@
+﻿body {
+    font-family: 'Lilita One', cursive;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 500%;
+    color: blueviolet;
+}
+
+h2 {
+    text-align:center;
+    color: blueviolet;
+    font-size: 300%;
+}
+
+h3 {
+    font-size: 200%;
+    color: blue;
+}
+
+table {
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+th, td {
+    font-size: 200%;
+    padding: 20px;
+    color: blue;
+}
+
+td {
+    text-align: left;
+}
+
+th {
+    text-align: center;
+}
+
+.buttonstyle {
+    background-color: orange;
+    border-radius: 15px;
+    font-size: 150%;
+    padding: 15Px;
+    margin: 15px;
+  }
+
+input {
+    padding: 10px;
+    font-size: large;
+}
+
+#foodform input, .centerbutton{
+    text-align: center;
+}
+
+#divUser, #divOrder {
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 50px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
